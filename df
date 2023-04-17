@@ -1,0 +1,17 @@
+[33mcommit a8ec4e47b014ccb13722f9d9bc531301aed603de[m[33m ([m[1;36mHEAD -> [m[1;32mTestingPR[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Pavel <lp.qroovemaster@gmail.com>
+Date:   Mon Apr 3 22:08:59 2023 +0300
+
+    Git lesson 1 - homework
+
+[33mcommit 1fc4c369ce696180b3f8c16b561c640d40c44ca0[m
+Author: Pavel <lp.qroovemaster@gmail.com>
+Date:   Wed Mar 29 22:48:52 2023 +0300
+
+    Added text file song
+
+[33mcommit bf3efd28d66c65c20c831e4a35e55daed0d3785c[m
+Author: plyskov <107006512+plyskov@users.noreply.github.com>
+Date:   Wed Mar 29 21:50:55 2023 +0300
+
+    Initial commit
